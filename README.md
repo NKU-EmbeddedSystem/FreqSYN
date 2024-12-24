@@ -1,6 +1,6 @@
-This is the Official PyTorch implementation of our ICASSP2025 paper "So Far Yet So Near: Time series data augmentation with exploring non-semantic boundaries based on reinforcement learning".
+# So Far Yet So Near: Time series data augmentation with exploring non-semantic boundaries based on reinforcement learning (ICASSP2025)
 
-# So Far Yet So Near: Time series data augmentation with exploring non-semantic boundaries based on reinforcement learning
+### This is the Official PyTorch implementation of our ICASSP2025 paper "So Far Yet So Near: Time series data augmentation with exploring non-semantic boundaries based on reinforcement learning".
 
 ![Alt text](FreqSYN/Fig/FreqSYN.jpg)
 
