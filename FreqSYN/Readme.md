@@ -50,3 +50,5 @@ pip install -r requirments.txt
 
 ## Reference
 1. [RL-PPO](https://github.com/Lizhi-sjtu/DRL-code-pytorch)
+2. [DeepSeparator](https://github.com/ncclabsustech/DeepSeparator)
+3. [MMCNN](https://github.com/ziyujia/ECML-PKDD_MMCNN)
